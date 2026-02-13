@@ -126,3 +126,17 @@ En el ecosistema de **Python**, las herramientas más potentes y utilizadas son:
 2. Bruce, P., Bruce, A., & Gedeck, P. (2020). **Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python**. O’Reilly Media. 2nd Edition.
 
 <img src="images/libro-01-practical-statistics-for-data-scientists.png" alt="Practical Statistics for Data Scientists" width="300" />
+
+
+### Algunas páginas donde se pueden encontrar datasets
+
+- **Awesome Public Datasets** link: <https://github.com/awesomedata/awesome-public-datasets>
+- **Kaggle Datasets** link: <https://www.kaggle.com/datasets>
+- **Reisanar Datasets** link <https://github.com/reisanar/datasets>
+- **rfordatascience/tidytuesday** link: <https://github.com/rfordatascience/tidytuesday>
+- **UCI Machine Learning Repository** link: <https://archive.ics.uci.edu/ml/datasets.php>
+- **Google Dataset Search** link: <https://datasetsearch.research.google.com/>
+- **Data.gov** link: <https://www.data.gov/>
+- **World Bank Open Data** link: <https://data.worldbank.org/>
+- **Google Dataset Search** link: <https://datasetsearch.research.google.com/>
+
